@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>{{.Page.Name}}</title>
+    <meta name="description" content="{{.Page.description}}">
+    <meta name="author" content="MetehanSarı">
+</head>
+<body>
+    <h1>{{.Page.Name}}</h1>
+    {{range.Users}}
+    <p>
+        <strong>{{.ID}} - {{.FirstName}}- {{.LastName}}</strong><i>by - {{.UserName}}</i>
+        <br>
+        <ul>
+            <li>{{.ID}}- {{.Name}}</li>
+        </ul>
+        {{end}}
+    </p>
+    {{end}}
+</body>
+</html>

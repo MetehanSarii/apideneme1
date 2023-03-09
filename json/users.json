@@ -1,0 +1,24 @@
+[
+    {
+    "ID": 1,
+    "Username":"MetehanSarı",
+    "Firstname":"Metehan",
+    "Lastname":"Sarı",
+    "Interest":"Go,Html,Css,Java"
+    
+},
+  {  "ID": 2,
+    "Username":"nidasenbursa",
+    "Firstname":"nida",
+    "Lastname":"senbursa",
+    "Interest":"Flutter, Swift"
+    
+},
+  {  "ID": 3,
+    "Username":"SerdarCoruh",
+    "Firstname":"Serdar",
+    "Lastname":"coruh",
+    "Interest":"Machine Learning,bigdata"
+    
+}
+]

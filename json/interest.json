@@ -1,0 +1,42 @@
+[
+    {
+        "ID":1,
+        "Name": "C#"
+    },
+    {
+        "ID":2,
+        "Name": "Go#"
+    },
+    {
+        "ID":3,
+        "Name": "Java"
+    },
+    {
+        "ID":4,
+        "Name": "BigData"
+    },
+    {
+        "ID":5,
+        "Name": "Machine Learning"
+    },
+    {
+        "ID":6,
+        "Name": "Flutter"
+    },
+    {
+        "ID":7,
+        "Name": "Java"
+    },
+    {
+        "ID":8,
+        "Name": "Swift"
+    },
+    {
+        "ID":9,
+        "Name": "Html"
+    },
+    {
+        "ID":10,
+        "Name": "Css"
+    }
+]
